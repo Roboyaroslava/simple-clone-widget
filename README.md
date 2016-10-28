@@ -1,9 +1,16 @@
 === Simple clone widget ===
+
 Contributors: roboyaroslava
+
 Donate link: http://yaroslava.me/
+
 Tags: clone, duplicate, widget, sidebar
+
 Requires at least: 4.1
+
 Tested up to: 4.6.1
+
+
 Stable tag: 1.0
 
 Simple clone widget plugin add a 'Clone this!'' link of every widget. Simply click 'Clone it!' to make a copy of the widget.
