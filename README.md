@@ -2,8 +2,6 @@
 
 Contributors: roboyaroslava
 
-Donate link: http://yaroslava.me/
-
 Tags: clone, duplicate, widget, sidebar
 
 Requires at least: 4.1
